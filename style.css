@@ -1,0 +1,30 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #00ffff;
+  font-family: "Alkatra", cursive;
+}
+
+#Galery {
+  background-color: #00ffff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar-brand {
+  font-family: "Alkatra", cursive;
+}
+
+h2 {
+  font-family: "Alkatra", cursive;
+  box-shadow: 100px;
+}
+
+p {
+  font-family: "Alkatra", cursive;
+}
+
+ul .navbar {
+  font-family: "Alkatra", cursive;
+}
